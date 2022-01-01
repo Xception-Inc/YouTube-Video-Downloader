@@ -33,11 +33,11 @@ There are two command line arguments:-
 <h3>Windows</h3>
 
 ```
-python main.py --url 'https://www.youtube.com/watch?v=tCuRbIInrOo'
+python main.py --url 'https://www.youtube.com/watch?v=tCuRbIInrOo' --dir 'C:\Users\Admin\Videos'
 ```
 
 <h3>Mac/Linux</h3>
 
 ```
-python3 main.py
+python3 main.py --url 'https://www.youtube.com/watch?v=tCuRbIInrOo' --dir 'C:\Users\Admin\Videos'
 ```
