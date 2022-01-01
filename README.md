@@ -26,7 +26,9 @@ cd YouTube-Video-Downloader
 
 <h2>Usage</h2>
 There are two command line arguments:-
+<br>
 --url  -  The YouTube Video URL. This is a required argument.
+<br>
 --dir  -  The directory in which the video is supposed to be saved. This is not a required argument. If it is not specified, the video gets downloaded in the current working directory.
 <h3>Windows</h3>
 
